@@ -16,7 +16,7 @@ body{
 h1{
     margin: 0;
     margin-bottom: 15px;
-    color: #165662;
+    color: #3192a5;
 }
 
 .input-section{
@@ -60,4 +60,5 @@ ul li{
 ul li i {
     text-align: right;
     flex: 1;
+    cursor: pointer;
 }
